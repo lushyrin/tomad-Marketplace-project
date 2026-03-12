@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# Node / Frontend
+node_modules/
+dist/
+.env
+.env.local
+.env.*.local
+
+# Go
+vendor/
+*.exe
+*.test
+*.out
+
+# IDE
+.vscode/
+.idea/
+
+# Claude
+.claude/
